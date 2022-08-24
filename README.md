@@ -1,6 +1,10 @@
 # Convert-XML-to-JSON-and-Import-JSON-to-MongoDB
 Convert XML to JSON and Import JSON to MongoDB.
 
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
+
 For this documentation, I have an interesting full article that I recommend you [Convertir XML a JSON e Importar JSON a MongoDB con Python y Docker](https://www.crashell.com/estudio/convertir_xml_a_json_e_importar_json_a_mongodb_con_python_y_docker).
 
 #### Manage MongoDB container with Docker Compose
