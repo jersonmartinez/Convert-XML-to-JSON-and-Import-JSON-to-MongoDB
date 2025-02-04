@@ -55,8 +55,10 @@ jobs:
           args:
             # Unique keys of your project and organization. You can find them in SonarCloud > Information (bottom-left menu)
             # mandatory
-            -Dsonar.projectKey=
-            -Dsonar.organization=
+            #-Dsonar.projectKey=
+            #-Dsonar.organization=
+            sonar.projectKey=jersonmartinez_Convert-XML-to-JSON-and-Import-JSON-to-MongoDB
+            sonar.organization=jersonmartinez
             # Comma-separated paths to directories containing main source files.
             #-Dsonar.sources= # optional, default is project base directory
             # Comma-separated paths to directories containing test source files.
